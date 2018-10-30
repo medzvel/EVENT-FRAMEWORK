@@ -1,5 +1,6 @@
 #include <a_samp>
 
+//Eliminate pwn
 
 public OnPlayerDeath(playerid, killerid, reason)
 {
