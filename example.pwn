@@ -1,6 +1,6 @@
 /*
 	Example Script For EVENT System FrameWork
-	Created By Amagida
+	Created By Amagida (Medzvel)
 */	
 #include <a_samp>
 #include <zcmd> //https://pastebin.com/SbJc7iXa
