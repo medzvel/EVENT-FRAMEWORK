@@ -1,5 +1,5 @@
 #include <a_samp>
-
+//INCLUDING PWN FILES FROM EVENT FOLDER
 #include "Event\utils\eventcreate.pwn"
 #include "Event\player\playereventjoin.pwn"
 #include "Event\utils\eventstart.pwn"
